@@ -2,3 +2,5 @@ numpy
 scikit-image
 ipykernel
 matplotlib
+tqdm
+ipywidgets
